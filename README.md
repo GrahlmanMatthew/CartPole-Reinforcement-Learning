@@ -32,7 +32,7 @@ The graph below shows the average reward value per episode for each of the model
 - A2C (blue)
 - DQN (red)
 
-<img src="./images/result-cartpole.png" width="700" height="200">
+<img src="./images/result-cartpole.PNG" width="700" height="200">
 
 ### PPO - 10,000 epochs into training
 <img src="./images/cartpole-untrained-ppo.gif" width="300" height="300">
